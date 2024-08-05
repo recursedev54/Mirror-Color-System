@@ -35,3 +35,5 @@
 #000080: Navy
 
 #000040: Space
+
+#000020: Petersite
